@@ -39,6 +39,6 @@ OWASP juga memiliki sepuluh kerentanan keamanan aplikasi web teratas, atau yang 
 
 
 # NO.6
-[Link Badges]('https://www.credly.com/badges/bc219bb3-6138-407e-9f3e-23f414ea83a4/public_url') 
+<a href= "https://www.credly.com/badges/bc219bb3-6138-407e-9f3e-23f414ea83a4/public_url">Link Badge</a> 
 <br>
-[Link Sertifikat]('https://drive.google.com/file/d/1QSw8dIy_5G_kFHeSJ6dt7tmylEJi9Awc/view?usp=sharing') 
+<a href= "https://drive.google.com/file/d/1QSw8dIy_5G_kFHeSJ6dt7tmylEJi9Awc/view?usp=sharing"><Link Sertifikat</a> 
