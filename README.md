@@ -36,3 +36,9 @@ Peraturan Menteri (Permen) No 20 Tahun 2016 tentang Perlindungan Data Pribadi (P
 # NO. 5
 Open Web Application Security Project atau OWASP adalah organisasi yang bertujuan untuk melawan serangan siber dan kerentanan. Dirintis oleh Mark Curphey, seorang cybersecurity enthusiast, OWASP memiliki tujuan meningkatkan keamanan aplikasi dengan menyediakan banyak informasi/materi dan beragam tools secara gratis.<br>
 OWASP juga memiliki sepuluh kerentanan keamanan aplikasi web teratas, atau yang biasa kita sebut OWASP Top Ten. 
+
+
+# NO.6
+[Link Badges]('https://www.credly.com/badges/bc219bb3-6138-407e-9f3e-23f414ea83a4/public_url') 
+<br>
+[Link Sertifikat]('https://drive.google.com/file/d/1QSw8dIy_5G_kFHeSJ6dt7tmylEJi9Awc/view?usp=sharing') 
